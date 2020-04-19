@@ -63,4 +63,3 @@ else
   echo "4) In case binaries won't run, make sure they have the permission \"is executable\". "
   exit 1
 fi
-
